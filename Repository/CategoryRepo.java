@@ -6,4 +6,5 @@ import com.example.blog.Entity.Category;
 
 public interface CategoryRepo extends JpaRepository<Category,Integer> {
 
+	
 }
